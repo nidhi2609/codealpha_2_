@@ -1,2 +1,46 @@
 # codealpha_2_
-A simple Python-based Stock Portfolio Tracker that allows users to input stock names and quantities, calculates total investment value using predefined stock prices, and optionally saves the portfolio summary to a file. This project demonstrates core Python concepts like dictionaries, loops, input/output handling, and file handling.
+# 📊 Stock Portfolio Tracker
+
+A simple command-line based Stock Portfolio Tracker built using Python.  
+This project allows users to calculate their total stock investment using predefined stock prices.
+
+---
+
+## 🎯 Project Objective
+
+To build a beginner-friendly stock tracking system that:
+- Takes stock names and quantities as input
+- Uses a predefined dictionary for stock prices
+- Calculates total investment value
+- Optionally saves the portfolio summary to a file
+
+---
+
+## 🚀 Features
+
+✅ User input for stock selection  
+✅ Predefined stock price dictionary  
+✅ Portfolio summary display  
+✅ Total investment calculation  
+✅ Optional file saving (.txt)  
+✅ Beginner-friendly Python project  
+
+---
+
+## 🧠 Concepts Used
+
+- Dictionary
+- While Loop
+- If-Else Statements
+- Input/Output Handling
+- Type Casting
+- Basic Arithmetic
+- File Handling
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+  
+---
